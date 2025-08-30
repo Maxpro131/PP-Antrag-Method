@@ -7,13 +7,13 @@ This tutorial shows you how to get the app hash for PocketPoster without a PC/Ma
 > Since this method requires a PC/Mac <strong><i>before</i></strong> using it, I recommend it only to SideStore/StikDebug users
 
 
-## Prerequisites
+### Prerequisites
 <li>A pairing file</li>
 <li><a href=https://apps.apple.com/app/antrag/id6747074491>Antrag</a> with the pairing file imported
   (settings icon at the top right > Tunnel and Pairing > Import Pairing File)</li>
 <li>StosVPN enabled</li>
 
-### How to get the app hash
+## How to get the app hash
 <details>
   <summary>Tutorial for iPhone wallpapers</summary>
   <ol>
