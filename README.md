@@ -33,7 +33,7 @@ This tutorial shows you how to get the app hash for PocketPoster without a PC/Ma
   </ol>
 </details>
 <details>
-  <summary>Tutorial for Carplay wallpapers</summary>
+  <summary>Tutorial for CarPlay wallpapers</summary>
   <ol>
     <li>Go to the main menu of Antrag</li>
     <li>Switch to system</li>
