@@ -1,6 +1,8 @@
 name: I need help
 description: Create an issue to get support
 labels: help
+assignees:
+  - Maxpro131
 body:
   - type: textarea
     attributes:
