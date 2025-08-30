@@ -4,7 +4,7 @@ This tutorial shows you how to get the app hash for PocketPoster without a PC/Ma
 > [!NOTE]
 > This method requires a pairing file. Generating a pairing file is a one-time process using a PC/Mac.
 > 
-> Since this method requires a PC/Mac <strong>before</strong> using it, I recommend it only to SideStore/StikDebug users
+> Since this method requires a PC/Mac <strong><i>before</i></strong> using it, I recommend it only to SideStore/StikDebug users
 
 
 ## Prerequisites
