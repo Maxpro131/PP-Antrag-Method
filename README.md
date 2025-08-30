@@ -1,5 +1,11 @@
 # PocketPoster-Antrag-Method
-This tutorial shows you how to get the app hash for PocketPoster without a PC/Mac, if you're using SideStore/StikDebug or you randomly have a pairing file. You can use this method until the owner of PocketPoster adds it natively.
+This tutorial shows you how to get the app hash for PocketPoster without a PC/Mac. You can use this method until the owner of PocketPoster adds it natively.
+
+> [!NOTE]
+> This method requires a pairing file. Generating a pairing file is a one-time process using a PC/Mac.
+> 
+> Since this method requires a PC/Mac <strong>before</strong> using it, I recommend it only to SideStore/StikDebug users
+
 
 ## Prerequisites
 <li>A pairing file</li>
