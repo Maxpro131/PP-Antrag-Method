@@ -1,0 +1,13 @@
+name: Question
+description: Ask a question about the method
+labels: question
+assignees:
+  - Maxpro131
+body:
+  - type: textarea
+    attributes:
+      label: Question
+      placeholder: |
+        Enter your question here
+    validations:
+      required: true
