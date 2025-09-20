@@ -36,6 +36,7 @@ Antrag got taken down from the App Store. You can only use this method right now
 <details>
   <summary>Tutorial for CarPlay wallpapers</summary>
   <ol>
+    <strong>NOTE:</strong> CarPlay wallpapers aren't supported on iOS 26
     <li>Go to the main menu of Antrag</li>
     <li>Switch to system</li>
     <img src="https://raw.githubusercontent.com/Maxpro131/PP-Antrag-Method/refs/heads/main/Resources/2.png">
