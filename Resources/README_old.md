@@ -12,7 +12,7 @@ This tutorial shows you how to get the app hash for PocketPoster without a PC/Ma
 <li>A pairing file</li>
 <li><a href=https://apps.apple.com/app/antrag/id6747074491>Antrag</a> with the pairing file imported
   (settings icon at the top right > Tunnel and Pairing > Import Pairing File)</li>
-<li>StosVPN enabled</li>
+<li><a href=https://apps.apple.com/app/stosvpn/id6744003051>StosVPN</a> enabled</li>
 
 ## How to get the app hash
 <details>
