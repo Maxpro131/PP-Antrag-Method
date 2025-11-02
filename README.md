@@ -8,7 +8,7 @@ This tutorial shows you how to get the app hash for PocketPoster without a PC/Ma
 > Since this method requires a PC/Mac <strong><i>before</i></strong> using it, I recommend it only to SideStore/StikDebug users
 
 ## IMPORTANT:
-Antrag got taken down from the App Store. You can only use this method right now if you sideload the [Antrag](https://github.com/khcrysalis/Antrag/releases/latest/) ipa via SideStore/AltStore or import it into LiveContainer.<br>If you downloaded Antrag once, you can find it in the App Store under Account -> Apps -> 🔍 Antrag
+Antrag got taken down from the App Store. You can only use this method right now if you sideload the [Antrag](https://github.com/khcrysalis/Antrag/releases/latest/) ipa or import it into LiveContainer.<br>If you downloaded Antrag once, you can find it in the App Store under Account -> Apps -> 🔍 Antrag
 
 ### Prerequisites
 <li>A pairing file</li>
