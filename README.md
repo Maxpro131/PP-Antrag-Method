@@ -18,7 +18,7 @@ Antrag got taken down from the App Store. You can only use this method right now
 
 ## How to get the app hash
 <details>
-  <summary>Tutorial for iPhone wallpapers</summary>
+  <summary>Tutorial for iPhone/iPad wallpapers</summary>
   <ol>
     <li>Go to the main menu of Antrag</li>
     <li>Switch to system</li>
